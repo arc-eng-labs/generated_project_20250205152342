@@ -1,0 +1,12 @@
+node_modules/
+# Logs
+*.log
+
+# DB files
+*.sqlite
+
+# Env files
+.env
+
+# Coverage
+coverage/
